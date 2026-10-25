@@ -1,5 +1,7 @@
-Linux Structure
+## Linux Structure
 
-Command Line + Option + Arguments
+`Command Line + Option + Arguments`
 
-example : cat -n file.txt
+example : ```
+cat -n file.txt
+```
