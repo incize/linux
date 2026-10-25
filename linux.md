@@ -2,6 +2,7 @@
 
 `Command Line + Option + Arguments`
 
-example : ```
+example :
+```
 cat -n file.txt
 ```
