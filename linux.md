@@ -6,3 +6,6 @@ example :
 ```
 cat -n file.txt
 ```
+```
+man cat
+```
